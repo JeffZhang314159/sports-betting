@@ -1,0 +1,2799 @@
+[
+  {
+    "id": "6ddf1ae05d173fb0797fec8cf60c38fd",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-21T22:00:31Z",
+    "home_team": "Drake Bulldogs",
+    "away_team": "Akron Zips",
+    "bookmakers": [
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Akron Zips",
+                "price": 61.0
+              },
+              {
+                "name": "Drake Bulldogs",
+                "price": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Akron Zips",
+                "price": 13.0
+              },
+              {
+                "name": "Drake Bulldogs",
+                "price": 1.02
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a1059fc30dd8716bd19f9c20226c46b9",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-21T22:08:00Z",
+    "home_team": "High Point Panthers",
+    "away_team": "Illinois St Redbirds",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.22
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 4.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.26
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.2
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 4.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.17
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 4.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.19
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 4.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.25
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.22
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-21T23:41:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:41:53Z",
+            "outcomes": [
+              {
+                "name": "High Point Panthers",
+                "price": 1.19
+              },
+              {
+                "name": "Illinois St Redbirds",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "13eb96b6678511c7842bd2a3e4e690eb",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-21T23:00:00Z",
+    "home_team": "Southern Illinois Salukis",
+    "away_team": "James Madison Dukes",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-21T23:38:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:38:45Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.07
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 7.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.08
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 7.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:41:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:41:00Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.0
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 1.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.05
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 9.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.11
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 6.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.03
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "James Madison Dukes",
+                "price": 1.03
+              },
+              {
+                "name": "Southern Illinois Salukis",
+                "price": 10.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "78de242f78211ac06fda69b4655cc476",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-21T23:03:01Z",
+    "home_team": "East Carolina Pirates",
+    "away_team": "Kennesaw St Owls",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.47
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.5
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.48
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.41
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.47
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.55
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.53
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "East Carolina Pirates",
+                "price": 1.47
+              },
+              {
+                "name": "Kennesaw St Owls",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b5fe82157c848b22fd342b2dae276a1e",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-21T23:31:14Z",
+    "home_team": "Indiana St Sycamores",
+    "away_team": "Rice Owls",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.37
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.36
+              },
+              {
+                "name": "Rice Owls",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.34
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.42
+              },
+              {
+                "name": "Rice Owls",
+                "price": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.44
+              },
+              {
+                "name": "Rice Owls",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.5
+              },
+              {
+                "name": "Rice Owls",
+                "price": 2.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-21T23:31:17Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:31:17Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.36
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-11-21T23:30:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:30:38Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.36
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:30:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:30:37Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.35
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.33
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:35:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:35:24Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.37
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-11-21T23:29:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:29:57Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.36
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:29:20Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:29:20Z",
+            "outcomes": [
+              {
+                "name": "Indiana St Sycamores",
+                "price": 1.36
+              },
+              {
+                "name": "Rice Owls",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5db820032c76a5f7e6d8370705220f72",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-21T23:45:00Z",
+    "home_team": "UNLV Rebels",
+    "away_team": "Richmond Spiders",
+    "bookmakers": [
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.3
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.35
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.62
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.2
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.68
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.15
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.71
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-21T23:42:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:33Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.3
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.3
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:29:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:29:13Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.2
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.68
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.2
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.68
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-11-21T23:42:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.3
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.67
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:30:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:30:37Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.32
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.43
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.59
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:42:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:26Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.35
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-21T23:41:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:41:53Z",
+            "outcomes": [
+              {
+                "name": "Richmond Spiders",
+                "price": 2.32
+              },
+              {
+                "name": "UNLV Rebels",
+                "price": 1.62
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "199b99adb60abc8a70ccafe35492bc55",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Albany Great Danes",
+    "away_team": "Army Knights",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.46
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.48
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.44
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:38Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.41
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.41
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.41
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:42:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:42Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.49
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.72
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Albany Great Danes",
+                "price": 1.44
+              },
+              {
+                "name": "Army Knights",
+                "price": 2.85
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6524eac8cba4a07ff92b8f27f4c0d611",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Ball State Cardinals",
+    "away_team": "South Carolina Upstate Spartans",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.57
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.59
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.59
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:38Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.63
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.63
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.63
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:42:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:42Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.59
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.61
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:42:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:26Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.59
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Ball State Cardinals",
+                "price": 1.59
+              },
+              {
+                "name": "South Carolina Upstate Spartans",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "152cf6d510fe7709772831a88ab2c1c7",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Davidson Wildcats",
+    "away_team": "Boston Univ. Terriers",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 8.5
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.08
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 9.0
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 11.0
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 9.5
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 9.5
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:38Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 9.5
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 9.75
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:42:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:26Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 8.5
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 8.0
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.08
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-21T23:41:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:41:53Z",
+            "outcomes": [
+              {
+                "name": "Boston Univ. Terriers",
+                "price": 9.1
+              },
+              {
+                "name": "Davidson Wildcats",
+                "price": 1.07
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5c1c08540612bd9a4d9d2bbce39c8f3e",
+    "sport_key": "americanfootball_ncaaf",
+    "sport_title": "NCAAF",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Western Michigan Broncos",
+    "away_team": "Bowling Green Falcons",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:41:02Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:41:02Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.74
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:43Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:43Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.75
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:13Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:13Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.75
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-21T23:42:51Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:51Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:54Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:56Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:10Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.74
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-11-21T23:42:09Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:09Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:42:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:19Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.77
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:43:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:43:00Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-21T23:42:35Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:35Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-11-21T23:42:04Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:04Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:10Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:10Z",
+            "outcomes": [
+              {
+                "name": "Bowling Green Falcons",
+                "price": 1.71
+              },
+              {
+                "name": "Western Michigan Broncos",
+                "price": 2.15
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a392943aac076858c0a4407a9057636d",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Campbell Fighting Camels",
+    "away_team": "Idaho State Bengals",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.59
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.42
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.61
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.59
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:38Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.56
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.56
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.56
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.59
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-11-21T23:42:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.61
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-21T23:42:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:33Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.61
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:42:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:42Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.59
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.59
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.61
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.45
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:42:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:26Z",
+            "outcomes": [
+              {
+                "name": "Campbell Fighting Camels",
+                "price": 1.61
+              },
+              {
+                "name": "Idaho State Bengals",
+                "price": 2.42
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a1d458a5c163282b86e62e326992fed5",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Columbia Lions",
+    "away_team": "LIU Sharks",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.12
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.12
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.1
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 7.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.11
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.11
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:38Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.11
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:42:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:42Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.12
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.11
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:42:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:26Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.12
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Columbia Lions",
+                "price": 1.12
+              },
+              {
+                "name": "LIU Sharks",
+                "price": 6.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "00d9cd3311ee70abe35ffb3cf3ad1cff",
+    "sport_key": "basketball_ncaab",
+    "sport_title": "NCAAB",
+    "commence_time": "2023-11-22T00:00:00Z",
+    "home_team": "Detroit Mercy Titans",
+    "away_team": "Eastern Michigan Eagles",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.68
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.24
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-11-21T23:42:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.65
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-11-21T23:42:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:33Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.64
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "Caesars",
+        "last_update": "2023-11-21T23:42:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:16Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.65
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-11-21T23:42:01Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:00Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.69
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-11-21T23:42:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:46Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.69
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-11-21T23:42:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:26Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.71
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betus",
+        "title": "BetUS",
+        "last_update": "2023-11-21T23:42:23Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:23Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.65
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-11-21T23:42:24Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:24Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.68
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-11-21T23:42:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:57Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.68
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-11-21T23:42:38Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:38Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.68
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-11-21T23:42:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:37Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.61
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "wynnbet",
+        "title": "WynnBET",
+        "last_update": "2023-11-21T23:42:42Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:42:42Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.67
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.27
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-11-21T23:41:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-11-21T23:41:53Z",
+            "outcomes": [
+              {
+                "name": "Detroit Mercy Titans",
+                "price": 1.65
+              },
+              {
+                "name": "Eastern Michigan Eagles",
+                "price": 2.28
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

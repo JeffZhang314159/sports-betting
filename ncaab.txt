@@ -1,0 +1,452 @@
+NCAAB: Drake Bulldogs v.s Akron Zips @ 2023-11-21T22:00:31Z has these odds: 
+ {'Akron Zips': [(61.0, 'Caesars'), (13.0, 'Bovada')], 'Drake Bulldogs': [(1.0, 'Caesars'), (1.02, 'Bovada')]}
+Best odds for Akron Zips is 61.0 offered by Caesars
+Best odds for Drake Bulldogs is 1.02 offered by Bovada
+Total implied odds: 0.9967855994856959
+Arbitrage opportunity!
+
+NCAAB: High Point Panthers v.s Illinois St Redbirds @ 2023-11-21T22:08:00Z has these odds:
+ {'High Point Panthers': [(1.22, 'DraftKings'), (1.26, 'Caesars'), (1.2, 'Bovada'), (1.17, 'PointsBet (US)'), (1.19, 'TwinSpires'), (1.25, 'Unibet'), (1.22, 'BetMGM'), (1.19, 'FanDuel')], 'Illinois St Redbirds': [(4.1, 'DraftKings'), (3.8, 'Caesars'), (4.3, 'Bovada'), (4.75, 'PointsBet (US)'), (4.4, 'TwinSpires'), (3.75, 'Unibet'), 
+(4.2, 'BetMGM'), (4.5, 'FanDuel')]}
+Best odds for High Point Panthers is 1.26 offered by Caesars
+Best odds for Illinois St Redbirds is 4.75 offered by PointsBet (US)
+Total implied odds: 1.0041771094402674
+
+NCAAB: Southern Illinois Salukis v.s James Madison Dukes @ 2023-11-21T23:00:00Z has these odds:
+ {'James Madison Dukes': [(1.07, 'FanDuel'), (1.08, 'Caesars'), (1.0, 'PointsBet (US)'), (1.05, 'BetMGM'), (1.11, 'Bovada'), (1.03, 'Unibet'), (1.03, 'TwinSpires')], 'Southern Illinois Salukis': [(7.7, 'FanDuel'), (7.7, 'Caesars'), (1.0, 'PointsBet (US)'), (9.5, 'BetMGM'), (6.25, 'Bovada'), (10.5, 'Unibet'), (10.5, 'TwinSpires')]}  
+Best odds for James Madison Dukes is 1.11 offered by Bovada
+Best odds for Southern Illinois Salukis is 10.5 offered by Unibet
+Total implied odds: 0.996138996138996
+Arbitrage opportunity!
+
+NCAAB: East Carolina Pirates v.s Kennesaw St Owls @ 2023-11-21T23:03:01Z has these odds:
+ {'East Carolina Pirates': [(1.47, 'DraftKings'), (1.5, 'PointsBet (US)'), (1.48, 'Caesars'), (1.41, 'Unibet'), (1.47, 'TwinSpires'), (1.53, 'BetMGM'), (1.47, 'Bovada')], 'Kennesaw St Owls': [(2.65, 'DraftKings'), (2.5, 'PointsBet (US)'), (2.65, 'Caesars'), (2.8, 'Unibet'), (2.55, 'TwinSpires'), (2.5, 'BetMGM'), (2.6, 'Bovada')]}   
+Best odds for East Carolina Pirates is 1.53 offered by BetMGM
+Best odds for Kennesaw St Owls is 2.8 offered by Unibet
+Total implied odds: 1.0107376283846872
+
+NCAAB: Indiana St Sycamores v.s Rice Owls @ 2023-11-21T23:31:14Z has these odds:
+ {'Indiana St Sycamores': [(1.37, 'DraftKings'), (1.36, 'TwinSpires'), (1.34, 'Unibet'), (1.42, 'PointsBet (US)'), (1.44, 'BetMGM'), (1.5, 'Caesars'), (1.36, 'BetOnline.ag'), (1.36, 'LowVig.ag'), (1.35, 'WynnBET'), (1.37, 'Bovada'), (1.36, 'BetUS'), (1.36, 'SuperBook')], 'Rice Owls': [(3.0, 'DraftKings'), (2.95, 'TwinSpires'), (3.1, 'Unibet'), (2.75, 'PointsBet (US)'), (2.8, 'BetMGM'), (2.6, 'Caesars'), (3.3, 'BetOnline.ag'), (3.3, 'LowVig.ag'), (3.33, 'WynnBET'), (3.2, 'Bovada'), (3.25, 'BetUS'), (3.3, 'SuperBook')]}
+Best odds for Indiana St Sycamores is 1.5 offered by Caesars
+Best odds for Rice Owls is 3.33 offered by WynnBET
+Total implied odds: 0.9669669669669669
+Arbitrage opportunity!
+
+NCAAB: UNLV Rebels v.s Richmond Spiders @ 2023-11-21T23:45:00Z has these odds:
+ {'Richmond Spiders': [(2.3, 'BetUS'), (2.35, 'Bovada'), (2.2, 'TwinSpires'), (2.15, 'PointsBet (US)'), (2.3, 'BetOnline.ag'), (2.3, 'BetMGM'), (2.2, 'BetRivers'), (2.2, 'Unibet'), (2.3, 'LowVig.ag'), (2.32, 'WynnBET'), (2.43, 'Caesars'), (2.35, 'SuperBook'), (2.32, 'FanDuel')], 'UNLV Rebels': [(1.67, 'BetUS'), (1.62, 'Bovada'), (1.68, 'TwinSpires'), (1.71, 'PointsBet (US)'), (1.67, 'BetOnline.ag'), (1.65, 'BetMGM'), (1.68, 'BetRivers'), (1.68, 'Unibet'), (1.67, 'LowVig.ag'), (1.65, 'WynnBET'), (1.59, 'Caesars'), (1.65, 'SuperBook'), (1.62, 'FanDuel')]}
+Best odds for Richmond Spiders is 2.43 offered by Caesars
+Best odds for UNLV Rebels is 1.71 offered by PointsBet (US)
+Total implied odds: 0.9963179553822827
+Arbitrage opportunity!
+
+NCAAB: Albany Great Danes v.s Army Knights @ 2023-11-22T00:00:00Z has these odds:
+ {'Albany Great Danes': [(1.46, 'DraftKings'), (1.48, 'Caesars'), (1.44, 'PointsBet (US)'), (1.41, 'BetRivers'), (1.41, 'TwinSpires'), (1.41, 'Unibet'), (1.49, 'WynnBET'), (1.44, 'BetMGM')], 'Army Knights': [(2.8, 'DraftKings'), (2.75, 'Caesars'), (2.85, 'PointsBet (US)'), (2.95, 'BetRivers'), (2.95, 'TwinSpires'), (2.95, 'Unibet'), (2.72, 'WynnBET'), (2.85, 'BetMGM')]}
+Best odds for Albany Great Danes is 1.49 offered by WynnBET
+Best odds for Army Knights is 2.95 offered by Unibet
+Total implied odds: 1.010123990444773
+
+NCAAB: Ball State Cardinals v.s South Carolina Upstate Spartans @ 2023-11-22T00:00:00Z has these odds:
+ {'Ball State Cardinals': [(1.57, 'DraftKings'), (1.59, 'Caesars'), (1.59, 'PointsBet (US)'), (1.63, 'BetRivers'), (1.63, 'TwinSpires'), (1.63, 'Unibet'), (1.59, 'WynnBET'), (1.61, 'BetMGM'), (1.59, 'SuperBook'), (1.59, 'Bovada')], 'South Carolina Upstate Spartans': [(2.45, 'DraftKings'), (2.43, 'Caesars'), (2.4, 'PointsBet (US)'), 
+(2.3, 'BetRivers'), (2.3, 'TwinSpires'), (2.3, 'Unibet'), (2.43, 'WynnBET'), (2.4, 'BetMGM'), (2.45, 'SuperBook'), (2.45, 'Bovada')]}
+Best odds for Ball State Cardinals is 1.63 offered by Unibet
+Best odds for South Carolina Upstate Spartans is 2.45 offered by SuperBook
+Total implied odds: 1.02166019782146
+
+NCAAB: Davidson Wildcats v.s Boston Univ. Terriers @ 2023-11-22T00:00:00Z has these odds:
+ {'Boston Univ. Terriers': [(8.5, 'DraftKings'), (9.0, 'Caesars'), (11.0, 'PointsBet (US)'), (9.5, 'TwinSpires'), (9.5, 'Unibet'), (9.5, 'BetRivers'), (9.75, 'BetMGM'), (8.5, 'SuperBook'), (8.0, 'Bovada'), (9.1, 'FanDuel')], 'Davidson Wildcats': [(1.08, 'DraftKings'), (1.07, 'Caesars'), (1.06, 'PointsBet (US)'), (1.06, 'TwinSpires'), (1.06, 'Unibet'), (1.06, 'BetRivers'), (1.06, 'BetMGM'), (1.07, 'SuperBook'), (1.08, 'Bovada'), (1.07, 'FanDuel')]}
+Best odds for Boston Univ. Terriers is 11.0 offered by PointsBet (US)
+Best odds for Davidson Wildcats is 1.08 offered by DraftKings
+Total implied odds: 1.0168350168350166
+
+NCAAF: Western Michigan Broncos v.s Bowling Green Falcons @ 2023-11-22T00:00:00Z has these odds:
+ {'Bowling Green Falcons': [(1.74, 'DraftKings'), (1.75, 'Unibet'), (1.75, 'BetRivers'), (1.71, 'FanDuel'), (1.71, 'PointsBet (US)'), (1.71, 'Bovada'), (1.74, 'Caesars'), (1.71, 'BetUS'), (1.77, 'WynnBET'), (1.71, 'SuperBook'), (1.71, 'BetOnline.ag'), (1.71, 'LowVig.ag'), (1.71, 'BetMGM')], 'Western Michigan Broncos': [(2.14, 'DraftKings'), (2.1, 'Unibet'), (2.1, 'BetRivers'), (2.16, 'FanDuel'), (2.2, 'PointsBet (US)'), (2.2, 'Bovada'), (2.15, 'Caesars'), (2.2, 'BetUS'), (2.12, 'WynnBET'), (2.2, 
+'SuperBook'), (2.2, 'BetOnline.ag'), (2.2, 'LowVig.ag'), (2.15, 'BetMGM')]}
+Best odds for Bowling Green Falcons is 1.77 offered by WynnBET
+Best odds for Western Michigan Broncos is 2.2 offered by SuperBook
+Total implied odds: 1.0195172059578839
+
+NCAAB: Campbell Fighting Camels v.s Idaho State Bengals @ 2023-11-22T00:00:00Z has these odds:
+ {'Campbell Fighting Camels': [(1.59, 'DraftKings'), (1.61, 'BetMGM'), (1.59, 'PointsBet (US)'), (1.56, 'BetRivers'), (1.56, 'TwinSpires'), (1.56, 'Unibet'), (1.59, 'Caesars'), (1.61, 'LowVig.ag'), (1.61, 'BetOnline.ag'), (1.59, 'WynnBET'), (1.59, 'Bovada'), (1.61, 'BetUS'), (1.61, 'SuperBook')], 'Idaho State Bengals': [(2.42, 'DraftKings'), (2.4, 'BetMGM'), (2.4, 'PointsBet (US)'), (2.43, 'BetRivers'), (2.43, 'TwinSpires'), (2.43, 'Unibet'), (2.43, 'Caesars'), (2.45, 'LowVig.ag'), (2.45, 'BetOnline.ag'), (2.43, 'WynnBET'), (2.45, 'Bovada'), (2.45, 'BetUS'), (2.42, 'SuperBook')]}
+Best odds for Campbell Fighting Camels is 1.61 offered by SuperBook
+Best odds for Idaho State Bengals is 2.45 offered by LowVig.ag
+Total implied odds: 1.0292812777284825
+
+NCAAB: Columbia Lions v.s LIU Sharks @ 2023-11-22T00:00:00Z has these odds:
+ {'Columbia Lions': [(1.12, 'DraftKings'), (1.12, 'Caesars'), (1.1, 'PointsBet (US)'), (1.11, 'TwinSpires'), (1.11, 'Unibet'), (1.11, 'BetRivers'), (1.12, 'WynnBET'), 
+(1.11, 'BetMGM'), (1.12, 'SuperBook'), (1.12, 'Bovada')], 'LIU Sharks': [(6.5, 'DraftKings'), (6.5, 'Caesars'), (7.5, 'PointsBet (US)'), (6.75, 'TwinSpires'), (6.75, 'Unibet'), (6.75, 'BetRivers'), (6.6, 'WynnBET'), (6.75, 'BetMGM'), (6.5, 'SuperBook'), (6.5, 'Bovada')]}
+Best odds for Columbia Lions is 1.12 offered by WynnBET
+Best odds for LIU Sharks is 7.5 offered by PointsBet (US)
+Total implied odds: 1.026190476190476
+
+NCAAB: Detroit Mercy Titans v.s Eastern Michigan Eagles @ 2023-11-22T00:00:00Z has these odds:
+ {'Detroit Mercy Titans': [(1.68, 'DraftKings'), (1.65, 'LowVig.ag'), (1.64, 'BetOnline.ag'), (1.65, 'Caesars'), (1.69, 'BetMGM'), (1.69, 'PointsBet (US)'), (1.71, 'SuperBook'), (1.65, 'BetUS'), (1.68, 'TwinSpires'), (1.68, 'Unibet'), (1.68, 'BetRivers'), (1.61, 'Bovada'), (1.67, 'WynnBET'), (1.65, 'FanDuel')], 'Eastern Michigan Eagles': [(2.24, 'DraftKings'), (2.35, 'LowVig.ag'), (2.35, 'BetOnline.ag'), (2.3, 'Caesars'), (2.2, 'BetMGM'), (2.2, 'PointsBet (US)'), (2.2, 'SuperBook'), (2.35, 'BetUS'), (2.2, 'TwinSpires'), (2.2, 'Unibet'), (2.2, 'BetRivers'), (2.4, 'Bovada'), (2.27, 'WynnBET'), (2.28, 'FanDuel')]}
+Best odds for Detroit Mercy Titans is 1.71 offered by SuperBook
+Best odds for Eastern Michigan Eagles is 2.4 offered by Bovada
+Total implied odds: 1.0014619883040936
+
+NCAAB: Tennessee Volunteers v.s Purdue Boilermakers @ 2023-11-22T01:00:20Z has these odds: 
+ {'Purdue Boilermakers': [(1.37, 'DraftKings'), (1.44, 'PointsBet (US)'), (1.43, 'Caesars'), (1.43, 'Bovada'), (1.57, 'BetMGM'), (1.4, 'Unibet'), (1.4, 'TwinSpires'), 
+(1.71, 'FanDuel')], 'Tennessee Volunteers': [(3.0, 'DraftKings'), (2.65, 'PointsBet (US)'), (2.8, 'Caesars'), (2.7, 'Bovada'), (2.4, 'BetMGM'), (2.95, 'Unibet'), (2.95, 'TwinSpires'), (2.08, 'FanDuel')]}
+Best odds for Purdue Boilermakers is 1.71 offered by FanDuel
+Best odds for Tennessee Volunteers is 3.0 offered by DraftKings
+Total implied odds: 0.9181286549707601
+Arbitrage opportunity!
+
+NCAAB: TCU Horned Frogs v.s Alcorn St Braves @ 2023-11-22T01:01:13Z has these odds:
+ {'Alcorn St Braves': [(34.0, 'BetMGM')], 'TCU Horned Frogs': [(1.01, 'BetMGM')]}
+Best odds for Alcorn St Braves is 34.0 offered by BetMGM
+Best odds for TCU Horned Frogs is 1.01 offered by BetMGM
+Total implied odds: 1.0195107746068723
+
+NCAAB: Auburn Tigers v.s Alabama A&M Bulldogs @ 2023-11-22T01:01:26Z has these odds:
+ {'Alabama A&M Bulldogs': [(34.0, 'BetMGM')], 'Auburn Tigers': [(1.01, 'BetMGM')]}
+Best odds for Alabama A&M Bulldogs is 34.0 offered by BetMGM
+Best odds for Auburn Tigers is 1.01 offered by BetMGM
+Total implied odds: 1.0195107746068723
+
+NCAAB: Valparaiso Beacons v.s Western Illinois Leathernecks @ 2023-11-22T01:02:53Z has these odds:
+ {'Valparaiso Beacons': [(1.01, 'DraftKings'), (1.01, 'TwinSpires'), (1.01, 'Unibet'), (1.21, 'Bovada')], 'Western Illinois Leathernecks': [(23.0, 'DraftKings'), (13.0, 'TwinSpires'), (13.0, 'Unibet'), (4.15, 'Bovada')]}
+Best odds for Valparaiso Beacons is 1.21 offered by Bovada
+Best odds for Western Illinois Leathernecks is 23.0 offered by DraftKings
+Total implied odds: 0.8699245418613007
+Arbitrage opportunity!
+
+NCAAB: Oral Roberts Golden Eagles v.s Texas Southern Tigers @ 2023-11-22T01:04:57Z has these odds:
+ {'Oral Roberts Golden Eagles': [(1.95, 'DraftKings'), (1.0, 'PointsBet (US)'), (1.3, 'TwinSpires'), (1.24, 'Unibet'), (1.59, 'Bovada')], 'Texas Southern Tigers': [(1.8, 'DraftKings'), (1.0, 'PointsBet (US)'), (3.3, 'TwinSpires'), (3.8, 'Unibet'), (2.3, 'Bovada')]}
+Best odds for Oral Roberts Golden Eagles is 1.95 offered by DraftKings
+Best odds for Texas Southern Tigers is 3.8 offered by Unibet
+Total implied odds: 0.775978407557355
+Arbitrage opportunity!
+
+NCAAB: Milwaukee Panthers v.s Siena Saints @ 2023-11-22T01:30:00Z has these odds:
+ {'Milwaukee Panthers': [(1.41, 'DraftKings'), (1.38, 'Caesars'), (1.36, 'TwinSpires'), (1.36, 'Unibet'), (1.43, 'Bovada'), (1.36, 'BetMGM'), (1.39, 'FanDuel')], 'Siena Saints': [(2.85, 'DraftKings'), (3.0, 'Caesars'), (3.0, 'TwinSpires'), (3.0, 'Unibet'), (2.7, 'Bovada'), (3.1, 'BetMGM'), (2.88, 'FanDuel')]}
+Best odds for Milwaukee Panthers is 1.43 offered by Bovada
+Best odds for Siena Saints is 3.1 offered by BetMGM
+Total implied odds: 1.0218813444619896
+
+NCAAB: UC Irvine Anteaters v.s Pepperdine Waves @ 2023-11-22T01:53:01Z has these odds:
+ {'Pepperdine Waves': [(3.4, 'DraftKings'), (3.4, 'Caesars'), (3.2, 'BetMGM'), (3.65, 'TwinSpires'), (3.65, 'Unibet'), (3.4, 'Bovada')], 'UC Irvine Anteaters': [(1.3, 
+'DraftKings'), (1.31, 'Caesars'), (1.33, 'BetMGM'), (1.26, 'TwinSpires'), (1.26, 'Unibet'), (1.29, 'Bovada')]}
+Best odds for Pepperdine Waves is 3.65 offered by Unibet
+Best odds for UC Irvine Anteaters is 1.33 offered by BetMGM
+Total implied odds: 1.0258523019878463
+
+NCAAB: New Mexico St Aggies v.s Fresno St Bulldogs @ 2023-11-22T01:53:18Z has these odds:
+ {'Fresno St Bulldogs': [(1.67, 'DraftKings'), (1.62, 'Caesars'), (1.74, 'BetMGM'), (1.67, 'Bovada'), (1.66, 'TwinSpires'), (1.66, 'Unibet')], 'New Mexico St Aggies': 
+[(2.2, 'DraftKings'), (2.25, 'Caesars'), (2.05, 'BetMGM'), (2.15, 'Bovada'), (2.14, 'TwinSpires'), (2.14, 'Unibet')]}
+Best odds for Fresno St Bulldogs is 1.74 offered by BetMGM
+Best odds for New Mexico St Aggies is 2.25 offered by Caesars
+Total implied odds: 1.0191570881226053
+
+NCAAB: Green Bay Phoenix v.s UC Riverside Highlanders @ 2023-11-22T02:00:00Z has these odds:
+ {'Green Bay Phoenix': [(5.0, 'DraftKings'), (3.9, 'BetMGM'), (4.3, 'Bovada')], 'UC Riverside Highlanders': [(1.16, 'DraftKings'), (1.25, 'BetMGM'), (1.2, 'Bovada')]} 
+Best odds for Green Bay Phoenix is 5.0 offered by DraftKings
+Best odds for UC Riverside Highlanders is 1.25 offered by BetMGM
+Total implied odds: 1.0
+
+NCAAB: Minnesota Golden Gophers v.s Arkansas-Pine Bluff Golden Lions @ 2023-11-22T02:05:45Z has these odds:
+ {'Arkansas-Pine Bluff Golden Lions': [(34.0, 'BetMGM'), (13.0, 'Bovada')], 'Minnesota Golden Gophers': [(1.01, 'BetMGM'), (1.02, 'Bovada')]}
+Best odds for Arkansas-Pine Bluff Golden Lions is 34.0 offered by BetMGM
+Best odds for Minnesota Golden Gophers is 1.02 offered by Bovada
+Total implied odds: 1.0098039215686274
+
+NCAAB: CSU Northridge Matadors v.s Le Moyne Dolphins @ 2023-11-22T03:00:00Z has these odds:
+ {'CSU Northridge Matadors': [(1.05, 'DraftKings'), (1.11, 'Caesars'), (1.09, 'TwinSpires'), (1.09, 'Unibet'), (1.11, 'WynnBET'), (1.11, 'BetMGM'), (1.1, 'SuperBook'), (1.09, 'Bovada')], 'Le Moyne Dolphins': [(12.0, 'DraftKings'), (7.0, 'Caesars'), (8.0, 'TwinSpires'), (8.0, 'Unibet'), (7.1, 'WynnBET'), (7.0, 'BetMGM'), (7.0, 'SuperBook'), (7.5, 'Bovada')]}
+Best odds for CSU Northridge Matadors is 1.11 offered by WynnBET
+Best odds for Le Moyne Dolphins is 12.0 offered by DraftKings
+Total implied odds: 0.9842342342342342
+Arbitrage opportunity!
+
+NCAAB: Kansas Jayhawks v.s Marquette Golden Eagles @ 2023-11-22T03:30:10Z has these odds:
+ {'Kansas Jayhawks': [(1.52, 'DraftKings'), (1.53, 'LowVig.ag'), (1.53, 'BetOnline.ag'), (1.55, 'BetUS'), (1.51, 'Caesars'), (1.5, 'PointsBet (US)'), (1.55, 'BetRivers'), (1.55, 'TwinSpires'), (1.55, 'Unibet'), (1.5, 'BetMGM'), (1.56, 'FanDuel'), (1.51, 'Bovada'), (1.54, 'WynnBET')], 'Marquette Golden Eagles': [(2.6, 'DraftKings'), 
+(2.65, 'LowVig.ag'), (2.65, 'BetOnline.ag'), (2.56, 'BetUS'), (2.62, 'Caesars'), (2.65, 'PointsBet (US)'), (2.4, 'BetRivers'), (2.4, 'TwinSpires'), (2.4, 'Unibet'), (2.65, 'BetMGM'), (2.46, 'FanDuel'), (2.65, 'Bovada'), (2.55, 'WynnBET')]}
+Best odds for Kansas Jayhawks is 1.56 offered by FanDuel
+Best odds for Marquette Golden Eagles is 2.65 offered by PointsBet (US)
+Total implied odds: 1.0183841315916786
+
+NCAAB: New Mexico Lobos v.s Toledo Rockets @ 2023-11-22T04:15:00Z has these odds:
+ {'New Mexico Lobos': [(1.7, 'DraftKings'), (1.74, 'LowVig.ag'), (1.74, 'BetOnline.ag'), (1.71, 'Caesars'), (1.74, 'SuperBook'), (1.74, 'BetUS'), (1.77, 'PointsBet (US)'), (1.68, 'BetRivers'), (1.68, 'TwinSpires'), (1.68, 'Unibet'), (1.74, 'BetMGM'), (1.69, 'Bovada'), (1.71, 'WynnBET')], 'Toledo Rockets': [(2.2, 'DraftKings'), (2.15, 'LowVig.ag'), (2.15, 'BetOnline.ag'), (2.18, 'Caesars'), (2.15, 'SuperBook'), (2.15, 'BetUS'), (2.1, 'PointsBet (US)'), (2.2, 'BetRivers'), (2.2, 'TwinSpires'), (2.2, 'Unibet'), (2.1, 'BetMGM'), (2.25, 'Bovada'), (2.18, 'WynnBET')]}
+Best odds for New Mexico Lobos is 1.77 offered by PointsBet (US)
+Best odds for Toledo Rockets is 2.25 offered by Bovada
+Total implied odds: 1.0094161958568737
+
+NCAAB: Hawai'i Rainbow Warriors v.s Northern Arizona Lumberjacks @ 2023-11-22T06:30:00Z has these odds:
+ {"Hawai'i Rainbow Warriors": [(1.08, 'DraftKings'), (1.08, 'LowVig.ag'), (1.08, 'BetOnline.ag'), (1.1, 'Caesars'), (1.06, 'FanDuel'), (1.07, 'BetMGM'), (1.07, 'SuperBook'), (1.08, 'BetUS'), (1.07, 'BetRivers'), (1.07, 'TwinSpires'), (1.07, 'Unibet'), (1.08, 'Bovada'), (1.07, 'PointsBet (US)'), (1.09, 'WynnBET')], 'Northern Arizona 
+Lumberjacks': [(8.5, 'DraftKings'), (8.5, 'LowVig.ag'), (8.5, 'BetOnline.ag'), (7.5, 'Caesars'), (9.6, 'FanDuel'), (9.0, 'BetMGM'), (8.5, 'SuperBook'), (8.5, 'BetUS'), (8.5, 'BetRivers'), (8.5, 'TwinSpires'), (8.5, 'Unibet'), (8.25, 'Bovada'), (9.5, 'PointsBet (US)'), (8.1, 'WynnBET')]}
+Best odds for Hawai'i Rainbow Warriors is 1.1 offered by Caesars
+Best odds for Northern Arizona Lumberjacks is 9.6 offered by FanDuel
+Total implied odds: 1.0132575757575757
+
+NCAAB: Murray St Racers v.s Appalachian St Mountaineers @ 2023-11-22T17:00:00Z has these odds:
+ {'Appalachian St Mountaineers': [(1.69, 'PointsBet (US)'), (1.69, 'BetMGM'), (1.71, 'FanDuel')], 'Murray St Racers': [(2.2, 'PointsBet (US)'), (2.2, 'BetMGM'), (2.16, 'FanDuel')]}
+Best odds for Appalachian St Mountaineers is 1.71 offered by FanDuel
+Best odds for Murray St Racers is 2.2 offered by PointsBet (US)
+Total implied odds: 1.0393407761828815
+
+NCAAB: Northern Iowa Panthers v.s North Carolina Tar Heels @ 2023-11-22T17:00:00Z has these odds:
+ {'North Carolina Tar Heels': [(1.11, 'PointsBet (US)'), (1.11, 'FanDuel')], 'Northern Iowa Panthers': [(7.0, 'PointsBet (US)'), (6.9, 'FanDuel')]}
+Best odds for North Carolina Tar Heels is 1.11 offered by PointsBet (US)
+Best odds for Northern Iowa Panthers is 7.0 offered by PointsBet (US)
+Total implied odds: 1.0437580437580436
+
+NCAAB: Arkansas-Little Rock Trojans v.s Georgia St Panthers @ 2023-11-22T18:00:00Z has these odds:
+ {'Arkansas-Little Rock Trojans': [(1.95, 'PointsBet (US)'), (2.05, 'BetMGM'), (1.96, 'FanDuel')], 'Georgia St Panthers': [(1.87, 'PointsBet (US)'), (1.8, 'BetMGM'), (1.87, 'FanDuel')]}
+Best odds for Arkansas-Little Rock Trojans is 2.05 offered by BetMGM
+Best odds for Georgia St Panthers is 1.87 offered by PointsBet (US)
+Total implied odds: 1.0225642363375504
+
+NCAAB: Texas State Bobcats v.s Southern Utah Thunderbirds @ 2023-11-22T18:00:00Z has these odds:
+ {'Southern Utah Thunderbirds': [(2.4, 'PointsBet (US)'), (2.4, 'BetMGM')], 'Texas State Bobcats': [(1.59, 'PointsBet (US)'), (1.61, 'BetMGM')]}
+Best odds for Southern Utah Thunderbirds is 2.4 offered by PointsBet (US)
+Best odds for Texas State Bobcats is 1.61 offered by BetMGM
+Total implied odds: 1.0377846790890268
+
+NCAAB: Boston College Eagles v.s Colorado St Rams @ 2023-11-22T18:30:00Z has these odds:
+ {'Boston College Eagles': [(3.0, 'PointsBet (US)'), (2.98, 'FanDuel')], 'Colorado St Rams': [(1.4, 'PointsBet (US)'), (1.41, 'FanDuel')]}
+Best odds for Boston College Eagles is 3.0 offered by PointsBet (US)
+Best odds for Colorado St Rams is 1.41 offered by FanDuel
+Total implied odds: 1.0425531914893618
+
+NCAAB: Massachusetts Minutemen v.s Central Connecticut St Blue Devils @ 2023-11-22T19:00:00Z has these odds:
+ {'Central Connecticut St Blue Devils': [(9.0, 'PointsBet (US)')], 'Massachusetts Minutemen': [(1.07, 'PointsBet (US)')]}
+Best odds for Central Connecticut St Blue Devils is 9.0 offered by PointsBet (US)
+Best odds for Massachusetts Minutemen is 1.07 offered by PointsBet (US)
+Total implied odds: 1.0456905503634475
+
+NCAAB: Colgate Raiders v.s Harvard Crimson @ 2023-11-22T19:00:00Z has these odds:
+ {'Colgate Raiders': [(1.56, 'PointsBet (US)'), (1.55, 'FanDuel')], 'Harvard Crimson': [(2.5, 'PointsBet (US)'), (2.5, 'FanDuel')]}
+Best odds for Colgate Raiders is 1.56 offered by PointsBet (US)
+Best odds for Harvard Crimson is 2.5 offered by PointsBet (US)
+Total implied odds: 1.0410256410256409
+
+NCAAB: Presbyterian Blue Hose v.s Tennessee Tech Golden Eagles @ 2023-11-22T19:00:00Z has these odds:
+ {'Presbyterian Blue Hose': [(1.28, 'FanDuel'), (1.29, 'PointsBet (US)')], 'Tennessee Tech Golden Eagles': [(3.8, 'FanDuel'), (3.8, 'PointsBet (US)')]}
+Best odds for Presbyterian Blue Hose is 1.29 offered by PointsBet (US)
+Best odds for Tennessee Tech Golden Eagles is 3.8 offered by PointsBet (US)
+Total implied odds: 1.0383516931864545
+
+NCAAB: Sam Houston St Bearkats v.s Grambling St Tigers @ 2023-11-22T19:30:00Z has these odds:
+ {}
+Total implied odds: 0
+Arbitrage opportunity!
+
+NCAAB: Texas Tech Red Raiders v.s Villanova Wildcats @ 2023-11-22T19:30:00Z has these odds:
+ {'Texas Tech Red Raiders': [(2.25, 'PointsBet (US)'), (2.26, 'FanDuel')], 'Villanova Wildcats': [(1.67, 'PointsBet (US)'), (1.66, 'FanDuel')]}
+Best odds for Texas Tech Red Raiders is 2.26 offered by FanDuel
+Best odds for Villanova Wildcats is 1.67 offered by PointsBet (US)
+Total implied odds: 1.0412802713157756
+
+NCAAB: Austin Peay Governors v.s Sacramento St Hornets @ 2023-11-22T20:00:00Z has these odds:
+ {'Austin Peay Governors': [(1.8, 'PointsBet (US)'), (1.79, 'FanDuel')], 'Sacramento St Hornets': [(2.05, 'PointsBet (US)'), (2.05, 'FanDuel')]}
+Best odds for Austin Peay Governors is 1.8 offered by PointsBet (US)
+Best odds for Sacramento St Hornets is 2.05 offered by PointsBet (US)
+Total implied odds: 1.043360433604336
+
+NCAAB: Tenn-Martin Skyhawks v.s North Alabama Lions @ 2023-11-22T20:00:00Z has these odds:
+ {'North Alabama Lions': [(2.0, 'PointsBet (US)')], 'Tenn-Martin Skyhawks': [(1.83, 'PointsBet (US)')]}
+Best odds for North Alabama Lions is 2.0 offered by PointsBet (US)
+Best odds for Tenn-Martin Skyhawks is 1.83 offered by PointsBet (US)
+Total implied odds: 1.046448087431694
+
+NCAAB: Temple Owls v.s Ole Miss Rebels @ 2023-11-22T20:30:00Z has these odds:
+ {'Ole Miss Rebels': [(1.77, 'PointsBet (US)'), (1.8, 'BetMGM'), (1.76, 'FanDuel')], 'Temple Owls': [(2.1, 'PointsBet (US)'), (2.05, 'BetMGM'), (2.1, 'FanDuel')]}     
+Best odds for Ole Miss Rebels is 1.8 offered by BetMGM
+Best odds for Temple Owls is 2.1 offered by PointsBet (US)
+Total implied odds: 1.0317460317460316
+
+NCAAB: Creighton Bluejays v.s Loyola (Chi) Ramblers @ 2023-11-22T21:00:00Z has these odds: 
+ {'Creighton Bluejays': [(1.05, 'PointsBet (US)'), (1.05, 'FanDuel')], 'Loyola (Chi) Ramblers': [(12.0, 'PointsBet (US)'), (11.0, 'FanDuel')]}
+Best odds for Creighton Bluejays is 1.05 offered by PointsBet (US)
+Best odds for Loyola (Chi) Ramblers is 12.0 offered by PointsBet (US)
+Total implied odds: 1.0357142857142856
+
+NCAAB: Louisiana Tech Bulldogs v.s McNeese Cowboys @ 2023-11-22T21:00:00Z has these odds:
+ {'Louisiana Tech Bulldogs': [(1.38, 'FanDuel'), (1.38, 'PointsBet (US)')], 'McNeese Cowboys': [(3.15, 'FanDuel'), (3.1, 'PointsBet (US)')]}
+Best odds for Louisiana Tech Bulldogs is 1.38 offered by PointsBet (US)
+Best odds for McNeese Cowboys is 3.15 offered by FanDuel
+Total implied odds: 1.0420979986197378
+
+NCAAB: American Eagles v.s Mt. St. Mary's Mountaineers @ 2023-11-22T21:30:00Z has these odds:
+ {'American Eagles': [(1.77, 'PointsBet (US)')], "Mt. St. Mary's Mountaineers": [(2.1, 'PointsBet (US)')]}
+Best odds for American Eagles is 1.77 offered by PointsBet (US)
+Best odds for Mt. St. Mary's Mountaineers is 2.1 offered by PointsBet (US)
+Total implied odds: 1.0411622276029056
+
+NCAAB: Tarleton State Texans v.s CSU Bakersfield Roadrunners @ 2023-11-22T22:00:00Z has these odds:
+ {'CSU Bakersfield Roadrunners': [(2.45, 'PointsBet (US)'), (2.5, 'FanDuel')], 'Tarleton State Texans': [(1.57, 'PointsBet (US)'), (1.55, 'FanDuel')]}
+Best odds for CSU Bakersfield Roadrunners is 2.5 offered by FanDuel
+Best odds for Tarleton State Texans is 1.57 offered by PointsBet (US)
+Total implied odds: 1.0369426751592357
+
+NCAAB: Campbell Fighting Camels v.s The Citadel Bulldogs @ 2023-11-22T22:00:00Z has these odds:
+ {'Campbell Fighting Camels': [(1.69, 'PointsBet (US)'), (1.69, 'BetMGM')], 'The Citadel Bulldogs': [(2.2, 'PointsBet (US)'), (2.2, 'BetMGM')]}
+Best odds for Campbell Fighting Camels is 1.69 offered by PointsBet (US)
+Best odds for The Citadel Bulldogs is 2.2 offered by PointsBet (US)
+Total implied odds: 1.0462614308768154
+
+NCAAB: Memphis Tigers v.s Michigan Wolverines @ 2023-11-22T22:00:00Z has these odds:
+ {'Memphis Tigers': [(1.77, 'PointsBet (US)'), (1.75, 'FanDuel'), (1.8, 'BetMGM')], 'Michigan Wolverines': [(2.1, 'PointsBet (US)'), (2.12, 'FanDuel'), (2.05, 'BetMGM')]}
+Best odds for Memphis Tigers is 1.8 offered by BetMGM
+Best odds for Michigan Wolverines is 2.12 offered by FanDuel
+Total implied odds: 1.0272536687631026
+
+NCAAB: Merrimack Warriors v.s North Carolina A&T Aggies @ 2023-11-22T22:30:00Z has these odds:
+ {'Merrimack Warriors': [(1.36, 'PointsBet (US)')], 'North Carolina A&T Aggies': [(3.2, 'PointsBet (US)')]}
+Best odds for Merrimack Warriors is 1.36 offered by PointsBet (US)
+Best odds for North Carolina A&T Aggies is 3.2 offered by PointsBet (US)
+Total implied odds: 1.0477941176470589
+
+NCAAB: Northern Kentucky Norse v.s Texas A&M-CC Islanders @ 2023-11-22T23:00:00Z has these odds:
+ {'Northern Kentucky Norse': [(1.31, 'PointsBet (US)')], 'Texas A&M-CC Islanders': [(3.5, 'PointsBet (US)')]}
+Best odds for Northern Kentucky Norse is 1.31 offered by PointsBet (US)
+Best odds for Texas A&M-CC Islanders is 3.5 offered by PointsBet (US)
+Total implied odds: 1.0490730643402397
+
+NCAAB: West Virginia Mountaineers v.s Virginia Cavaliers @ 2023-11-22T23:00:49Z has these odds:
+ {'Virginia Cavaliers': [(1.19, 'FanDuel'), (1.2, 'PointsBet (US)')], 'West Virginia Mountaineers': [(4.85, 'FanDuel'), (4.75, 'PointsBet (US)')]}
+Best odds for Virginia Cavaliers is 1.2 offered by PointsBet (US)
+Best odds for West Virginia Mountaineers is 4.85 offered by FanDuel
+Total implied odds: 1.0395189003436427
+
+NCAAB: Oregon St Beavers v.s Baylor Bears @ 2023-11-23T00:00:00Z has these odds:
+ {'Baylor Bears': [(1.04, 'FanDuel'), (1.07, 'BetMGM'), (1.04, 'PointsBet (US)')], 'Oregon St Beavers': [(12.6, 'FanDuel'), (8.75, 'BetMGM'), (14.0, 'PointsBet (US)')]}
+Best odds for Baylor Bears is 1.07 offered by BetMGM
+Best odds for Oregon St Beavers is 14.0 offered by PointsBet (US)
+Total implied odds: 1.006008010680908
+
+NCAAB: St. Bonaventure Bonnies v.s Bucknell Bison @ 2023-11-23T00:00:00Z has these odds:
+ {'Bucknell Bison': [(16.0, 'PointsBet (US)')], 'St. Bonaventure Bonnies': [(1.02, 'PointsBet (US)')]}
+Best odds for Bucknell Bison is 16.0 offered by PointsBet (US)
+Best odds for St. Bonaventure Bonnies is 1.02 offered by PointsBet (US)
+Total implied odds: 1.0428921568627452
+
+NCAAB: Cincinnati Bearcats v.s Georgia Tech Yellow Jackets @ 2023-11-23T00:00:00Z has these odds:
+ {'Cincinnati Bearcats': [(1.15, 'BetMGM'), (1.13, 'FanDuel'), (1.12, 'PointsBet (US)')], 'Georgia Tech Yellow Jackets': [(5.5, 'BetMGM'), (6.3, 'FanDuel'), (6.5, 'PointsBet (US)')]}
+Best odds for Cincinnati Bearcats is 1.15 offered by BetMGM
+Best odds for Georgia Tech Yellow Jackets is 6.5 offered by PointsBet (US)
+Total implied odds: 1.0234113712374584
+
+NCAAB: Cleveland St Vikings v.s East Tennessee St Buccaneers @ 2023-11-23T00:00:00Z has these odds:
+ {'Cleveland St Vikings': [(1.22, 'BetMGM'), (1.24, 'PointsBet (US)')], 'East Tennessee St Buccaneers': [(4.2, 'BetMGM'), (4.3, 'PointsBet (US)')]}
+Best odds for Cleveland St Vikings is 1.24 offered by PointsBet (US)
+Best odds for East Tennessee St Buccaneers is 4.3 offered by PointsBet (US)
+Total implied odds: 1.0390097524381097
+
+NCAAB: Queens University Royals v.s Fairleigh Dickinson Knights @ 2023-11-23T00:00:00Z has these odds:
+ {}
+Total implied odds: 0
+Arbitrage opportunity!
+
+NCAAB: Pepperdine Waves v.s Indiana St Sycamores @ 2023-11-23T00:00:00Z has these odds:
+ {'Indiana St Sycamores': [(1.61, 'BetMGM'), (1.59, 'PointsBet (US)')], 'Pepperdine Waves': [(2.4, 'BetMGM'), (2.4, 'PointsBet (US)')]}
+Best odds for Indiana St Sycamores is 1.61 offered by BetMGM
+Best odds for Pepperdine Waves is 2.4 offered by PointsBet (US)
+Total implied odds: 1.0377846790890268
+
+NCAAB: South Florida Bulls v.s Maine Black Bears @ 2023-11-23T00:00:00Z has these odds:
+ {'Maine Black Bears': [(5.25, 'PointsBet (US)')], 'South Florida Bulls': [(1.17, 'PointsBet (US)')]}
+Best odds for Maine Black Bears is 5.25 offered by PointsBet (US)
+Best odds for South Florida Bulls is 1.17 offered by PointsBet (US)
+Total implied odds: 1.0451770451770452
+
+NCAAB: Notre Dame Fighting Irish v.s Maryland-Eastern Shore Hawks @ 2023-11-23T00:00:00Z has these odds:
+ {'Maryland-Eastern Shore Hawks': [(13.0, 'PointsBet (US)')], 'Notre Dame Fighting Irish': [(1.04, 'PointsBet (US)')]}
+Best odds for Maryland-Eastern Shore Hawks is 13.0 offered by PointsBet (US)
+Best odds for Notre Dame Fighting Irish is 1.04 offered by PointsBet (US)
+Total implied odds: 1.0384615384615383
+
+NCAAB: Missouri Tigers v.s South Carolina St Bulldogs @ 2023-11-23T00:00:00Z has these odds:
+ {'Missouri Tigers': [(1.0, 'PointsBet (US)')], 'South Carolina St Bulldogs': [(51.0, 'PointsBet (US)')]}
+Best odds for Missouri Tigers is 1.0 offered by PointsBet (US)
+Best odds for South Carolina St Bulldogs is 51.0 offered by PointsBet (US)
+Total implied odds: 1.0196078431372548
+
+NCAAB: Samford Bulldogs v.s Alabama St Hornets @ 2023-11-23T00:30:00Z has these odds:
+ {'Alabama St Hornets': [(14.0, 'PointsBet (US)')], 'Samford Bulldogs': [(1.04, 'PointsBet (US)')]}
+Best odds for Alabama St Hornets is 14.0 offered by PointsBet (US)
+Best odds for Samford Bulldogs is 1.04 offered by PointsBet (US)
+Total implied odds: 1.0329670329670328
+
+NCAAB: Stanford Cardinal v.s Arkansas Razorbacks @ 2023-11-23T00:30:00Z has these odds:
+ {'Arkansas Razorbacks': [(1.36, 'FanDuel'), (1.36, 'PointsBet (US)'), (1.4, 'BetMGM')], 'Stanford Cardinal': [(3.2, 'FanDuel'), (3.2, 'PointsBet (US)'), (2.95, 'BetMGM')]}
+Best odds for Arkansas Razorbacks is 1.4 offered by BetMGM
+Best odds for Stanford Cardinal is 3.2 offered by PointsBet (US)
+Total implied odds: 1.0267857142857144
+
+NCAAB: UT-Arlington Mavericks v.s Alcorn St Braves @ 2023-11-23T01:00:00Z has these odds:
+ {}
+Total implied odds: 0
+Arbitrage opportunity!
+
+NCAAB: Kansas St Wildcats v.s Central Arkansas Bears @ 2023-11-23T01:00:00Z has these odds:
+ {'Central Arkansas Bears': [(36.0, 'PointsBet (US)')], 'Kansas St Wildcats': [(1.01, 'PointsBet (US)')]}
+Best odds for Central Arkansas Bears is 36.0 offered by PointsBet (US)
+Best odds for Kansas St Wildcats is 1.01 offered by PointsBet (US)
+Total implied odds: 1.0178767876787678
+
+NCAAB: Nebraska Cornhuskers v.s Duquesne Dukes @ 2023-11-23T01:00:00Z has these odds:
+ {'Duquesne Dukes': [(3.75, 'BetMGM'), (3.8, 'PointsBet (US)')], 'Nebraska Cornhuskers': [(1.29, 'BetMGM'), (1.29, 'PointsBet (US)')]}
+Best odds for Duquesne Dukes is 3.8 offered by PointsBet (US)
+Best odds for Nebraska Cornhuskers is 1.29 offered by PointsBet (US)
+Total implied odds: 1.0383516931864545
+
+NCAAB: Seattle Redhawks v.s Idaho Vandals @ 2023-11-23T01:00:00Z has these odds:
+ {'Idaho Vandals': [(8.75, 'BetMGM'), (15.0, 'PointsBet (US)')], 'Seattle Redhawks': [(1.07, 'BetMGM'), (1.03, 'PointsBet (US)')]}
+Best odds for Idaho Vandals is 15.0 offered by PointsBet (US)
+Best odds for Seattle Redhawks is 1.07 offered by BetMGM
+Total implied odds: 1.0012461059190032
+
+NCAAB: Incarnate Word Cardinals v.s Jacksonville St Gamecocks @ 2023-11-23T01:00:00Z has these odds:
+ {'Incarnate Word Cardinals': [(2.45, 'PointsBet (US)')], 'Jacksonville St Gamecocks': [(1.57, 'PointsBet (US)')]}
+Best odds for Incarnate Word Cardinals is 2.45 offered by PointsBet (US)
+Best odds for Jacksonville St Gamecocks is 1.57 offered by PointsBet (US)
+Total implied odds: 1.045105940465358
+
+NCAAB: Southern Miss Golden Eagles v.s South Dakota St Jackrabbits @ 2023-11-23T01:00:00Z has these odds:
+ {'South Dakota St Jackrabbits': [(2.0, 'PointsBet (US)')], 'Southern Miss Golden Eagles': [(1.83, 'PointsBet (US)')]}
+Best odds for South Dakota St Jackrabbits is 2.0 offered by PointsBet (US)
+Best odds for Southern Miss Golden Eagles is 1.83 offered by PointsBet (US)
+Total implied odds: 1.046448087431694
+
+NCAAB: Wisconsin Badgers v.s SMU Mustangs @ 2023-11-23T01:30:00Z has these odds:
+ {'SMU Mustangs': [(3.25, 'FanDuel'), (3.2, 'PointsBet (US)'), (3.75, 'BetMGM')], 'Wisconsin Badgers': [(1.36, 'FanDuel'), (1.36, 'PointsBet (US)'), (1.29, 'BetMGM')]}Best odds for SMU Mustangs is 3.75 offered by BetMGM
+Best odds for Wisconsin Badgers is 1.36 offered by PointsBet (US)
+Total implied odds: 1.0019607843137255
+
+NCAAB: San Francisco Dons v.s Fort Wayne Mastodons @ 2023-11-23T02:00:00Z has these odds:
+ {'Fort Wayne Mastodons': [(8.25, 'BetMGM'), (9.0, 'PointsBet (US)')], 'San Francisco Dons': [(1.08, 'BetMGM'), (1.08, 'PointsBet (US)')]}
+Best odds for Fort Wayne Mastodons is 9.0 offered by PointsBet (US)
+Best odds for San Francisco Dons is 1.08 offered by PointsBet (US)
+Total implied odds: 1.037037037037037
+
+NCAAB: Montana St Bobcats v.s UC Riverside Highlanders @ 2023-11-23T02:00:00Z has these odds:
+ {'Montana St Bobcats': [(1.54, 'BetMGM'), (1.56, 'PointsBet (US)')], 'UC Riverside Highlanders': [(2.5, 'BetMGM'), (2.5, 'PointsBet (US)')]}
+Best odds for Montana St Bobcats is 1.56 offered by PointsBet (US)
+Best odds for UC Riverside Highlanders is 2.5 offered by PointsBet (US)
+Total implied odds: 1.0410256410256409
+
+NCAAB: Pittsburgh Panthers v.s Florida Gators @ 2023-11-23T02:30:00Z has these odds:
+ {'Florida Gators': [(1.66, 'FanDuel'), (1.61, 'BetMGM')], 'Pittsburgh Panthers': [(2.26, 'FanDuel'), (2.4, 'BetMGM')]}
+Best odds for Florida Gators is 1.66 offered by FanDuel
+Best odds for Pittsburgh Panthers is 2.4 offered by BetMGM
+Total implied odds: 1.0190763052208835
+
+NCAAB: UTEP Miners v.s Bradley Braves @ 2023-11-23T03:30:00Z has these odds:
+ {'Bradley Braves': [(1.55, 'FanDuel'), (1.54, 'BetMGM')], 'UTEP Miners': [(2.5, 'FanDuel'), (2.5, 'BetMGM')]}
+Best odds for Bradley Braves is 1.55 offered by FanDuel
+Best odds for UTEP Miners is 2.5 offered by FanDuel
+Total implied odds: 1.0451612903225806
+
+NCAAB: Toledo Rockets v.s UC Irvine Anteaters @ 2023-11-23T04:45:00Z has these odds:
+ {'Toledo Rockets': [(2.4, 'BetMGM')], 'UC Irvine Anteaters': [(1.61, 'BetMGM')]}
+Best odds for Toledo Rockets is 2.4 offered by BetMGM
+Best odds for UC Irvine Anteaters is 1.61 offered by BetMGM
+Total implied odds: 1.0377846790890268
+
+NCAAB: California Golden Bears v.s Tulane Green Wave @ 2023-11-23T05:30:00Z has these odds:
+ {'California Golden Bears': [(3.02, 'FanDuel'), (3.3, 'BetMGM')], 'Tulane Green Wave': [(1.4, 'FanDuel'), (1.33, 'BetMGM')]}
+Best odds for California Golden Bears is 3.3 offered by BetMGM
+Best odds for Tulane Green Wave is 1.4 offered by FanDuel
+Total implied odds: 1.0173160173160174
+
+Number of events: 60
