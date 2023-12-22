@@ -4,15 +4,18 @@ from bs4 import BeautifulSoup
 from analysis import findArbitrage
 
 class EventDto:
-    def __init__(self, name):
+    def __init__(self, name, sport, league, outcomes):
         self.name = name
+        self.sport = sport
+        self.league = league
         self.bookieOdds = {}
+        self.outcomes = outcomes
 
 def main():
     sportsAndLeagues = [
-        #('football', 'nfl'),
-        #('football', 'ncaaf'),
-        #('football', 'cfl'),
+        ('football', 'nfl'),
+        ('football', 'ncaaf'),
+        ('football', 'cfl'),
         ('basketball', 'nba'),
         ('basketball', 'ncaab'),
         ('basketball', 'wnba'),
@@ -30,6 +33,11 @@ def main():
         ('mma', 'ufc')
     ]
 
+    # Some bookies don't have sport betting in Ontario
+    bookieBlacklist = {
+        'ComeOn'
+    }
+
     for sport, league in sportsAndLeagues:
         upcomingGamesUrl = f'https://www.covers.com/sport/{sport}/{league}/odds'
         response = requests.get(upcomingGamesUrl)
@@ -44,7 +52,8 @@ def main():
             continue
 
         gameIds = [element['data-game'] for element in gameColumn.find_all(class_='lineHistoryBrick')]
-        
+        print(f'{sport} {league} has {len(gameIds)} upcoming games')
+
         for gameId in gameIds:
             url = f'https://www.covers.com/sport/{sport}/{league}/linemovement/whatever/{gameId}'
             response = requests.get(url)
@@ -55,14 +64,20 @@ def main():
             soup = BeautifulSoup(response.text, 'html.parser')
 
             eventName = soup.find(class_='covers-OddsFlexHeading').find('h1').get_text()
-            event = EventDto(eventName)
 
             moneylineElement = soup.find_all(id='tab-moneyline')[0]
             bookieElements = moneylineElement.find_all('table')
+
+            outcomes = [elem.get_text().strip() for elem in bookieElements[0].find(class_='covers-CoversMatchups-topHeader').find_all('th')[1:]]
+            
+            event = EventDto(eventName, sport, league, outcomes)
+
             for bookieElem in bookieElements:
                 bookieName = bookieElem.find(class_='covers-CoversOdds-bookLogo')['alt']
+                if bookieName in bookieBlacklist:
+                    continue
                 rowElem = bookieElem.tbody.tr
-                if not rowElem:
+                if not rowElem: # Sometimes empty row?
                     continue
                 row = rowElem.find_all('td')
                 time = ' '.join(row[0].div.get_text().split())
