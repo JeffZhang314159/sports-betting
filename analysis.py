@@ -1,4 +1,5 @@
 def findArbitrage(eventDto):
+    minimumReturn = 0.0
     totalImpliedOdds = 0
 
     bestOfferings = []
@@ -11,9 +12,11 @@ def findArbitrage(eventDto):
         bestOfferings.append(sortedByOdds)
         totalImpliedOdds += 1 / sortedByOdds[0][0]
 
-    if totalImpliedOdds < 0.95: # Rougly 5 % return or more
+    if totalImpliedOdds < 1 / (minimumReturn + 1): # Rougly 1% return or more
         edgePercent = (1 / totalImpliedOdds - 1) * 100
         print(f'{eventDto.name} {eventDto.sport} {eventDto.league}')
         for i, offerings in enumerate(bestOfferings):
             print(f'Best prices for {eventDto.outcomes[i]} are {offerings}')
+            individualArb = 1 / offerings[0][0] / totalImpliedOdds
+            print(f'Bet {individualArb} on {eventDto.outcomes[i]}')
         print(f'Arbitrage opportunity! Yield = {edgePercent} %\n')

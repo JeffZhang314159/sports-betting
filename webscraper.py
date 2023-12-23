@@ -33,9 +33,10 @@ def main():
         ('mma', 'ufc')
     ]
 
-    # Some bookies don't have sport betting in Ontario
+    
     bookieBlacklist = {
-        'ComeOn'
+        'ComeOn', # Doesn't have sports betting in Ontario
+        'bet365'  # From covers, sometimes odds are flipped. Annoying!
     }
 
     for sport, league in sportsAndLeagues:
