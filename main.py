@@ -14,7 +14,7 @@ args = parser.parse_args()
 
 
 API_KEY = args.api_key
-SPORT = 'basketball_ncaab' # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
+SPORT = 'icehockey_nhl' # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
 REGIONS = 'us' # uk | us | eu | au. Multiple can be specified if comma delimited
 MARKETS = 'h2h' # h2h | spreads | totals. Multiple can be specified if comma delimited
 ODDS_FORMAT = 'decimal' # decimal | american
@@ -63,21 +63,20 @@ if odds_response.status_code != 200:
 
 else:
     odds_json = odds_response.json()
-    with open(NCAAB_FILE, 'a') as f:
-        for match in odds_json:
-            eventOdds = EventOdds(**match)
-            
-            print(eventOdds)
-            totalImpliedOdds = 0
-            for outcome, prices in eventOdds.h2h.items():
-                bestPrice, bestBookie = max(prices)
-                print(f'Best odds for {outcome} is {bestPrice} offered by {bestBookie}')
-                totalImpliedOdds += 1 / bestPrice
+    for match in odds_json:
+        eventOdds = EventOdds(**match)
+        
+        print(eventOdds)
+        totalImpliedOdds = 0
+        for outcome, prices in eventOdds.h2h.items():
+            bestPrice, bestBookie = max(prices)
+            print(f'Best odds for {outcome} is {bestPrice} offered by {bestBookie}')
+            totalImpliedOdds += 1 / bestPrice
 
-            print(f'Total implied odds: {totalImpliedOdds}')
-            if totalImpliedOdds < 1:
-                print('Arbitrage opportunity!')
-            print()
+        print(f'Total implied odds: {totalImpliedOdds}')
+        if totalImpliedOdds < 1:
+            print('Arbitrage opportunity!')
+        print()
 
 
     print('Number of events:', len(odds_json))

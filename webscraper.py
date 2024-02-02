@@ -1,15 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from analysis import findArbitrage
-
-class EventDto:
-    def __init__(self, name, sport, league, outcomes):
-        self.name = name
-        self.sport = sport
-        self.league = league
-        self.bookieOdds = {}
-        self.outcomes = outcomes
+from analysis import findArbitrage, EventDto
 
 def main():
     sportsAndLeagues = [
@@ -36,8 +28,15 @@ def main():
     
     bookieBlacklist = {
         'ComeOn', # Doesn't have sports betting in Ontario
-        'bet365'  # From covers, sometimes odds are flipped. Annoying!
+        'bet365',  # From covers, sometimes odds are flipped. Annoying!
+        'DraftKings' # Verifying account
     }
+
+    markets = {
+        'moneyline': 'tab-moneyline',
+        #'total' : 'tab-total'
+    }
+
 
     for sport, league in sportsAndLeagues:
         upcomingGamesUrl = f'https://www.covers.com/sport/{sport}/{league}/odds'
@@ -64,27 +63,38 @@ def main():
 
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            eventName = soup.find(class_='covers-OddsFlexHeading').find('h1').get_text()
-
-            moneylineElement = soup.find_all(id='tab-moneyline')[0]
-            bookieElements = moneylineElement.find_all('table')
-
-            outcomes = [elem.get_text().strip() for elem in bookieElements[0].find(class_='covers-CoversMatchups-topHeader').find_all('th')[1:]]
+            heading = soup.find(class_='covers-OddsFlexHeading')
+            if not heading:
+                print(f'Could not find heading for {league} {gameId}')
+                continue
             
-            event = EventDto(eventName, sport, league, outcomes)
+            eventName = heading.find('h1').get_text()
 
-            for bookieElem in bookieElements:
-                bookieName = bookieElem.find(class_='covers-CoversOdds-bookLogo')['alt']
-                if bookieName in bookieBlacklist:
-                    continue
-                rowElem = bookieElem.tbody.tr
-                if not rowElem: # Sometimes empty row?
-                    continue
-                row = rowElem.find_all('td')
-                time = ' '.join(row[0].div.get_text().split())
-                event.bookieOdds[bookieName] = (tuple((float(td.find(class_='Decimal').get_text()) for td in row[1:])), time)
+            for market, elementId in markets.items():
+                marketElement = soup.find_all(id=elementId)[0]
+                bookieElements = marketElement.find_all('table')
 
-            findArbitrage(event)
+                outcomes = [elem.get_text().strip() for elem in bookieElements[0].find(class_='covers-CoversMatchups-topHeader').find_all('th')[1:]]
+                
+                event = EventDto(eventName, sport, league, market, outcomes)
+
+                for bookieElem in bookieElements:
+                    bookieName = bookieElem.find(class_='covers-CoversOdds-bookLogo')['alt']
+                    if bookieName in bookieBlacklist:
+                        continue
+                    rowElem = bookieElem.tbody.tr
+                    if not rowElem: # Sometimes empty row?
+                        continue
+                    row = rowElem.find_all('td')
+                    time = ' '.join(row[0].div.get_text().split())
+
+                    if market == 'moneyline':
+                        event.bookieOdds[bookieName] = (tuple((float(td.find(class_='Decimal').get_text()) for td in row[1:])), time)
+                    elif market == 'total':
+                        event.bookieOdds[bookieName] = (tuple((float(td.find(class_='Decimal').get_text().split()[-1]) for td in row[1:])), time)
+
+
+                findArbitrage(event)
 
 if __name__ == '__main__':
     main()
