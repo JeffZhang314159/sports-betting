@@ -3,19 +3,19 @@ class EventDto:
         self.name = name
         self.sport = sport
         self.league = league
-        self.bookieOdds = {}
+        self.bookieOdds = {} # Dict[str, Dict[str, float]]
         self.market = market
         self.outcomes = outcomes
 
 def findArbitrage(eventDto):
-    minimumReturn = 0.0
+    minimumReturn = 0.01
     totalImpliedOdds = 0
 
     bestOfferings = []
     for i in range(len(eventDto.outcomes)):
         if not eventDto.bookieOdds.items():
             return
-        
+
         sortedByOdds = sorted([(odds[i], bookie) for (bookie, (odds, _)) in eventDto.bookieOdds.items()], reverse=True)
         #print(sortedByOdds)
         bestOfferings.append(sortedByOdds)
@@ -31,7 +31,10 @@ def findArbitrage(eventDto):
         print(f'Arbitrage opportunity! Yield = {edgePercent} %\n')
 
 def findPlusEV(eventDto):
-    minimumReturn = 0.0
+    minimumReturn = 0.01
+    bankroll = 1000
+    kellyCoefficient = 0.25
+
     model = 'Pinnacle'
     if model not in eventDto.bookieOdds:
         return
@@ -41,9 +44,14 @@ def findPlusEV(eventDto):
 
     for bookie, (bookieOdds, _) in eventDto.bookieOdds.items():
         for i in range(len(fairOdds)):
-            edge = 1 / fairOdds[i] * (bookieOdds[i] - 1) - 1 + 1 / fairOdds[i]
-            if bookieOdds[i] > fairOdds[i]:
+            winProb = 1 / fairOdds[i]
+            edge = winProb * (bookieOdds[i] - 1) - 1 + winProb
+            if bookieOdds[i] > fairOdds[i] and edge > minimumReturn:
+                bankrollFraction = winProb - (1 - winProb) / (bookieOdds[i] - 1)
+                wagerAmount = kellyCoefficient * bankrollFraction * bankroll
                 print(f'+EV opportunity: {eventDto.name} {eventDto.sport}')
                 print(f'For {eventDto.outcomes[i]} {bookie} offers {bookieOdds[i]} when fair price is {fairOdds[i]}')
-                print(f'Return is {edge * 100}%')
+                print(f'Return is {edge * 100}%. Wager {wagerAmount} on {eventDto.outcomes[i]}\n')
+
+
 

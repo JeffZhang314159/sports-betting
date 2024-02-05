@@ -12,7 +12,7 @@ NCAAB_FILE = 'ncaab.txt'
 # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
 SPORTS_LIST = [
     'americanfootball_ncaaf',
-    'americanfootball_nfl',
+    #'americanfootball_nfl',
     'basketball_nba',
     'basketball_ncaab',
     'icehockey_nhl',
@@ -21,7 +21,7 @@ SPORTS_LIST = [
     'soccer_germany_bundesliga',
     'soccer_italy_serie_a',
     'soccer_spain_la_liga',
-    'soccer_usa_mls'
+    # 'soccer_usa_mls'
 ] 
 REGIONS = 'us' # uk | us | eu | au. Multiple can be specified if comma delimited
 BOOKMAKERS_LIST = [
@@ -31,7 +31,11 @@ BOOKMAKERS_LIST = [
     'fanduel',
     'betway',
     'sport888',
-    'draftkings'
+    'draftkings',
+    'pointsbetus',
+    'betvictor',
+    #'leovegas',
+
 ]
 BOOKMAKERS = ','.join(BOOKMAKERS_LIST)
 MARKETS = 'h2h' # h2h | spreads | totals. Multiple can be specified if comma delimited
@@ -89,7 +93,7 @@ def main(api_key):
         odds_json = odds_response.json()
 
         if RECORD:
-            filename = f'odds-api-data/{SPORT}_odds_{today}.json'
+            filename = f'odds-api-data/{SPORT}_{MARKETS}_odds_{today}.json'
             with open(filename, 'w') as f:
                 json.dump(odds_json, f, indent=4)
 

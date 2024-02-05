@@ -5,7 +5,7 @@ from analysis import EventDto, findArbitrage, findPlusEV
 
 SPORTS_LIST = [
     'americanfootball_ncaaf',
-    'americanfootball_nfl',
+    #'americanfootball_nfl',
     'basketball_nba',
     'basketball_ncaab',
     'icehockey_nhl',
@@ -14,7 +14,7 @@ SPORTS_LIST = [
     'soccer_germany_bundesliga',
     'soccer_italy_serie_a',
     'soccer_spain_la_liga',
-    'soccer_usa_mls'
+    # 'soccer_usa_mls'
 ] 
 BOOKMAKERS_LIST = [
     'pinnacle',
@@ -23,19 +23,24 @@ BOOKMAKERS_LIST = [
     'fanduel',
     'betway',
     'sport888',
-    'draftkings'
+    'draftkings',
+    'pointsbetus',
+    'betvictor',
+    #'leovegas',
 ]
-BOOKMAKERS = ','.join(BOOKMAKERS_LIST)
 MARKETS = 'h2h' # h2h | spreads | totals. Multiple can be specified if comma delimited
-ODDS_FORMAT = 'decimal' # decimal | american
-DATE_FORMAT = 'iso' # iso | unix
 
 def main():
     today = date.today()
     for SPORT in SPORTS_LIST:
-        filename = f'odds-api-data/{SPORT}_odds_{today}.json'
-        with open(filename, 'r') as odds_file:
-            odds_json = json.load(odds_file)
+        filename = f'odds-api-data/{SPORT}_{MARKETS}_odds_{today}.json'
+        
+        try:
+            with open(filename, 'r') as odds_file:
+                odds_json = json.load(odds_file)
+        except FileNotFoundError:
+            print(f'{filename} not found')
+            continue
 
         print(f'{SPORT} has {len(odds_json)} upcoming games')
         
@@ -44,6 +49,9 @@ def main():
             sport = SPORT
             league = SPORT
             market = MARKETS
+
+            if len(match['bookmakers']) == 0:
+                continue
             outcomes = [outcome['name'] for outcome in match['bookmakers'][0]['markets'][0]['outcomes']]
             eventDto = EventDto(name, sport, league, market, outcomes)
             
