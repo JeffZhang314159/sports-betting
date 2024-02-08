@@ -2,5 +2,6 @@ Scripts
 Lib
 Include
 __pycache__/
+bin
 pyvenv.cfg
 odds-api-data

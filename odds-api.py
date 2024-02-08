@@ -16,11 +16,11 @@ SPORTS_LIST = [
     'basketball_nba',
     'basketball_ncaab',
     'icehockey_nhl',
-    'soccer_epl',
-    'soccer_france_ligue_one',
-    'soccer_germany_bundesliga',
-    'soccer_italy_serie_a',
-    'soccer_spain_la_liga',
+    # 'soccer_epl',
+    # 'soccer_france_ligue_one',
+    # 'soccer_germany_bundesliga',
+    # 'soccer_italy_serie_a',
+    # 'soccer_spain_la_liga',
     # 'soccer_usa_mls'
 ] 
 REGIONS = 'us' # uk | us | eu | au. Multiple can be specified if comma delimited

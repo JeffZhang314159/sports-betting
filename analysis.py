@@ -42,16 +42,16 @@ def findPlusEV(eventDto):
     reciprocalSum = sum((1 / price for price in modelOdds))
     fairOdds = tuple(price * reciprocalSum for price in modelOdds)
 
-    for bookie, (bookieOdds, _) in eventDto.bookieOdds.items():
-        for i in range(len(fairOdds)):
+    for i in range(len(eventDto.outcomes)):
+        bestPrice = max((odds[i] for (odds, _) in eventDto.bookieOdds.values()))
+        bestOdds = filter(lambda x: x[1][0][i] == bestPrice, eventDto.bookieOdds.items())
+        for bookie, (bookieOdds, _) in bestOdds:
             winProb = 1 / fairOdds[i]
             edge = winProb * (bookieOdds[i] - 1) - 1 + winProb
             if bookieOdds[i] > fairOdds[i] and edge > minimumReturn:
+                print(f'Prices for {eventDto.outcomes[i]}: {[odds[i] for (odds, _) in eventDto.bookieOdds.values()]}')
                 bankrollFraction = winProb - (1 - winProb) / (bookieOdds[i] - 1)
                 wagerAmount = kellyCoefficient * bankrollFraction * bankroll
                 print(f'+EV opportunity: {eventDto.name} {eventDto.sport}')
                 print(f'For {eventDto.outcomes[i]} {bookie} offers {bookieOdds[i]} when fair price is {fairOdds[i]}')
                 print(f'Return is {edge * 100}%. Wager {wagerAmount} on {eventDto.outcomes[i]}\n')
-
-
-
