@@ -32,7 +32,7 @@ def findArbitrage(eventDto):
 
 def findPlusEV(eventDto):
     minimumReturn = 0.01
-    bankroll = 1000
+    bankroll = 1100
     kellyCoefficient = 0.25
 
     model = 'Pinnacle'

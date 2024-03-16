@@ -112,6 +112,10 @@ def main(api_key):
             
             for bookie in match['bookmakers']:
                 bookieName = bookie['title']
+                # Betway hockey is messed up for some reason
+                if bookieName == 'Betway' and sport == 'icehockey_nhl':
+                    continue
+
                 time = bookie['markets'][0]['last_update']
                 odds = tuple(outcome['price'] for outcome in bookie['markets'][0]['outcomes'])
                 eventDto.bookieOdds[bookieName] = (odds, time) 
